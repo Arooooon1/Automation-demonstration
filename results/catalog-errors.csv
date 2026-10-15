@@ -1,0 +1,3 @@
+﻿file,sku,reason
+supplier-a.csv,A04,Invalid or missing price/SKU
+supplier-b.csv,A07,Invalid or missing price/SKU

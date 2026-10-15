@@ -1,0 +1,26 @@
+{
+  "catalog": {
+    "input_rows": 12,
+    "supplier_files": 3,
+    "unique_products": 8,
+    "duplicates": 2,
+    "rejected": 2
+  },
+  "enquiries": {
+    "received": 5,
+    "newly_saved": 3,
+    "duplicate_updates": 1,
+    "invalid_updates": 1,
+    "total_saved": 3,
+    "mode": "OFFLINE: no Telegram or Google Sheets connection"
+  },
+  "sales": {
+    "input_rows": 12,
+    "accepted": 10,
+    "rejected": 2,
+    "units": 50,
+    "revenue": "130900",
+    "currency": "RUB",
+    "top_product": "Monitor"
+  }
+}
